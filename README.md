@@ -1,6 +1,4 @@
-<div align="center">
-    <img src="resources/branding/app_icon/raw.png"
-        title="Helium" alt="Helium logo" width="120" />
+
     <h1>Helium</h1>
     <p>
         The Chromium-based web browser made for people, with love.
